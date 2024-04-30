@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\cvs\\cv.docx",
+      "PackagePath": "staticwebassets\\cvs\\cv.docx"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\photos\\avatars-000282536343-6h6ce2-t240x240.jpg",
+      "PackagePath": "staticwebassets\\photos\\avatars-000282536343-6h6ce2-t240x240.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\0bccf8c3-bb44-4afc-b3ac-9767534b7636.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\0bccf8c3-bb44-4afc-b3ac-9767534b7636.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\135b39ea-e0e3-4d4b-9ae2-f1cacbf713ab.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\135b39ea-e0e3-4d4b-9ae2-f1cacbf713ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\23a030d6-c3be-4cc4-b647-9151f87ef8c0.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\23a030d6-c3be-4cc4-b647-9151f87ef8c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\351170e9-cec8-4159-b8b9-e4fc96b8bbbc.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\351170e9-cec8-4159-b8b9-e4fc96b8bbbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\4198813d-a933-4d59-b6ef-68966153c139.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\4198813d-a933-4d59-b6ef-68966153c139.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\4af0f4e3-62c4-4b95-9c23-ac2c5a7bd4aa.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\4af0f4e3-62c4-4b95-9c23-ac2c5a7bd4aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\640cda10-74ba-4688-9b2a-2e9e604a3f23.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\640cda10-74ba-4688-9b2a-2e9e604a3f23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\8eeecfc1-b582-444e-b9ad-23861beaaf39.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\8eeecfc1-b582-444e-b9ad-23861beaaf39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\a8e8548d-a488-4059-a0c4-1518213bf98c.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\a8e8548d-a488-4059-a0c4-1518213bf98c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\af727a31-7a7e-4ec2-a747-a10d50a3ac4f.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\af727a31-7a7e-4ec2-a747-a10d50a3ac4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\avatars-000282536343-6h6ce2-t240x240.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\avatars-000282536343-6h6ce2-t240x240.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerariadne\\Desktop\\Projects\\Project\\Hospital-Booking-Page-BackEnd\\Hospital-Booking-Page-BackEnd\\wwwroot\\thumbnails\\b8e4fbac-25f1-4370-ad0d-7ca6331142c2.jpg",
+      "PackagePath": "staticwebassets\\thumbnails\\b8e4fbac-25f1-4370-ad0d-7ca6331142c2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hospital-Booking-Page-BackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hospital-Booking-Page-BackEnd.props",
+      "PackagePath": "build\\Hospital-Booking-Page-BackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hospital-Booking-Page-BackEnd.props",
+      "PackagePath": "buildMultiTargeting\\Hospital-Booking-Page-BackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hospital-Booking-Page-BackEnd.props",
+      "PackagePath": "buildTransitive\\Hospital-Booking-Page-BackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

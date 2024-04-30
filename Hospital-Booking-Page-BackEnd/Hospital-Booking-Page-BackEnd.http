@@ -1,0 +1,6 @@
+@Hospital_Booking_Page_BackEnd_HostAddress = http://localhost:5136
+
+GET {{Hospital_Booking_Page_BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
